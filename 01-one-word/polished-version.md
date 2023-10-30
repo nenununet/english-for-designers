@@ -1,9 +1,8 @@
 # One Word
-- [Rough Draft](rough-draft.md)
 - [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](edit.md)
+- [Polished Version](polished-version.md)
 - [Final](final.md)
+
 
 ## **Struggling with "Girl": My Hilarious English Odyssey**
 
