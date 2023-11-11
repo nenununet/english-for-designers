@@ -1,7 +1,7 @@
 # One Word
 - [First Draft](first-draft.md)
 - [Polished Version](polished-version.md)
-- [Final](final.md)
+- [Last chance not to sound like AIl](last-chance-not-to-sound-like-AI.md)
 
 
 ## **Struggling with "Girl": My Hilarious English Odyssey**
