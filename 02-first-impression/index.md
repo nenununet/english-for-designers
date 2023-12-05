@@ -30,7 +30,7 @@ Encourage and reward your child for completing chores and tasks.
 • Your child builds habits while having fun.
 Celebrate their progress and receive detailed weekly reports.
 
----
+
 ### BOARD GAME 
 
 ![Board Game](./game_redesign.png)
@@ -39,13 +39,12 @@ The game "Imaginarium" is an extension of a popular board game, but with a cool 
 The cards have colorful pictures of things like underwater life, landscapes, and ocean stuff. Each game round takes about 30 minutes.
 The game can be replayed as many times as you want
 
----
+
 ### TATTOO SKETCHES
 
 ![Owl](./owl.png)
 
 Mainly, I position myself as a graphic designer, but in order not to get bogged down in endless wireframes, I sometimes draw custom tattoos and illustrations.  
-
 
 
 ![tattoo sketches](./tattoo_sketches.png)
